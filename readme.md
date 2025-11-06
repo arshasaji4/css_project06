@@ -2,7 +2,7 @@ Responsive Business Landing Page
 ## Overview
 This project is a responsive business landing page built using HTML and Tailwind CSS.It includes a simple navigation bar, a hero section with text and an image, and a call-to-action button — designed to attract users and promote services effectively.
 
-[live@](https://arshaproject06.netlify.app/)
+[live@](https://css-project06.vercel.app/)
 
 ## Tech Stack
 
